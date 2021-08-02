@@ -14,8 +14,3 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg">
 </div>
-  
-##
-<div> 
- ![Snake animation](https://github.com/ithiagorodrigues/ithiagorodrigues/blob/output/github-contribution-grid-snake.svg)
-</div>
